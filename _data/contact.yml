@@ -7,6 +7,10 @@
   icon: "fab fa-linkedin"
   url: "https://linkedin.com/in/jacobhans1"
 
+- type: itch-io
+  icon: "fab fa-itch-io"
+  url: "https://yakobjorgensen.itch.io"
+
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"
 
