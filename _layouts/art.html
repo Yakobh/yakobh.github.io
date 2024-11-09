@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% include lang.html %}
+
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  max-width: 350px;
+  transition: border 0.2s ease;
+  justify-content: center;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+</style>
+
+<h1>Art</h1>
+
+Check out some of my digital and physical art below. A lot of the pixel art has
+been for video games and other various fun projects. Most of my physical work has
+been through my drawing courses and spare time when I find the energy to sit and
+draw. Pen sketching has been my favorite thusfar and I find the act of drawing
+quite meditative as it forces you to sit and study the subject for much longer
+than you are used to looking at things.
+<br><br>
+
+{% for image in site.static_files %}
+    {% if image.path contains 'img/art' %}
+	<div class="gallery">
+		<img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+	</div>
+    {% endif %}
+{% endfor %}
