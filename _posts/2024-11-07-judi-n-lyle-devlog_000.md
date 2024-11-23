@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judi-n-Lyle Devlog
+title: Judi-n-Lyle Devlog - 000
 date: 2024-11-07 17:40 -0500
 categories: [Judi-n-Lyle GameDev]
 tags: [devlog, judi-n-lyle]
