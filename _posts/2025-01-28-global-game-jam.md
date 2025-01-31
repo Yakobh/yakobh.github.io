@@ -27,7 +27,7 @@ those reflections with you here.
 
 <p style="text-align:center;"><strong>24 Jan 2025 Day 1: Pre-arrival thoughts</strong></p>
 
-> I'm very interesting in meeting some new people and people that are like minded in creating video
+> I'm very interested in meeting some new people and people that are like minded in creating video
 > games. I haven't really reached out into this social sphere before so this will be exciting and
 > new. At the moment, I am very interested in working with a team of 2-3 total people. I'd like to
 > stick to my strengths of 2D pixel art style because that's where I feel most comfortable.
