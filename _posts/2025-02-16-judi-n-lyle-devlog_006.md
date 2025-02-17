@@ -38,7 +38,7 @@ controller connected up alonside keyboard controls which controls Judi and Lyle 
 
 {%
   include embed/video.html
-  src='/assets/img/judi-n-lyle/video_clips/splitscreen-concept.mp4'
+  src='/assets/img/judi-n-lyle/video_clips/split-screen-demo.mp4'
   title='Split Screen Concept'
   autoplay=false
   loop=true
