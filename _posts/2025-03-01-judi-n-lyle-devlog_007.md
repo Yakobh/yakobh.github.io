@@ -42,7 +42,7 @@ players can easily swap characters at any time.
 
 {%
   include embed/video.html
-  src='/assets/img/judi-n-lyle/video_clips/two_player_menu_demo.mov'
+  src='/assets/img/judi-n-lyle/video_clips/two_player_menu_demo.mp4'
   title='Two Player menu demo and split screen effect'
   autoplay=false
   loop=true
