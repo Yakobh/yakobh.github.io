@@ -11,6 +11,10 @@
   icon: "fab fa-itch-io"
   url: "https://yakobjorgensen.itch.io"
 
+- type: itch-io
+  icon: "fa-solid fa-tree"
+  url: "https://djupskog.com"
+
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"
 
