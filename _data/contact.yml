@@ -11,9 +11,13 @@
   icon: "fab fa-itch-io"
   url: "https://yakobjorgensen.itch.io"
 
-- type: itch-io
+- type: website
   icon: "fa-solid fa-tree"
   url: "https://djupskog.com"
+
+- type: mastodon
+  icon: "fa-brands fa-mastodon"
+  url: "https://mastodon.gamedev.place/@yakobjorgensen"
 
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"
